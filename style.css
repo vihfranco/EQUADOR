@@ -1,7 +1,10 @@
 
+body{
+    background: black;
+}
 h1 {
     color: #2600ff;
-    background: black;
+  
 }
 p {
     color-scheme: pink;
