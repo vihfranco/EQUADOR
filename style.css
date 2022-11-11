@@ -48,7 +48,6 @@ body {
 }
 
 header { 
-    background-image:url("imagens/CAPA.gif");
     position:static;
 }
 
@@ -167,11 +166,12 @@ td {
 }
 
 #bandeira {
-    width: 100px;
+    width: 400px;
     text-align: center;
     border: 0.1px;    
     margin: 5px;
     vertical-align: middle;
+    align-items: center;
 }
 
 #carouselExampleInterval{
