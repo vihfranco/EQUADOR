@@ -1,4 +1,3 @@
-
 a:hover {
     font-size: 1.05em;
     color: black;
@@ -10,10 +9,10 @@ body {
     line-height: 1.5;
     text-align: center;
     font-family: sans-serif;    
-    background-image:url("download.png);
-    background-size: cover;
+    background-image:url(download_resized.png);
+    background-size: 100%;
     background-repeat:no-repeat;    
-    background-position: center center;
+    background-position: left top;
 }
 
 #capa {
