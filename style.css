@@ -16,7 +16,7 @@ nav a {
 
 nav a:hover {
     font-size: 18px;
-    color: rgb(0, 0, 0);
+    color: red;
 }
 a {
     color: white;
@@ -26,7 +26,7 @@ a {
 
 a:hover {
     font-size: 1.05em;
-    color: black;
+    color: red;
 }
 
 body {
@@ -52,7 +52,7 @@ header {
 }
 
 .titulo {
-    color: #ffffff;
+    color: #130092;
     text-align: center;
     margin: 10px;
 }
@@ -69,15 +69,8 @@ h2 {
     font-weight: bolder; 
 }
 
-.titulo2 {
-    color: #ffffff;
-    text-align: center;
-    margin: 10px;
-    border: 1px dotted white;
-}
-
 div {
-    margin: 20px;
+    margin: 0px;
 }
 
 h3 {
@@ -90,7 +83,7 @@ h3 {
 }
 
 p {
-    color:  #ffffff;
+    color:  black;
     margin-left: 40px;
     text-align: justify;
     margin-right: 20px;
@@ -100,7 +93,7 @@ p {
 }
 
 li {
-    color:  #ffffff;
+    color:  black#ffffff;
     margin-left: 40px;
     margin-right: 20px;
     text-align: justify;
