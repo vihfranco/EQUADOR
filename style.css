@@ -42,7 +42,8 @@ body {
     font-family: sans-serif;    
     background-image:url(download_resized.png);
     background-size: 100%;
-    background-repeat:no-repeat;    
+    background-repeat:no-repeat;
+    background-attachment: fixed;   
     background-position: left top;
 }
 
@@ -52,7 +53,7 @@ body {
 }
 
 header { 
-    background-image:url("imagens/fundo9.webp");
+    background-image:url("imagens/Math\ Class\ Google\ Classroom\ Header\ Template.gif");
     position:static;
 }
 
