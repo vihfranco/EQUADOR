@@ -48,7 +48,7 @@ body {
 }
 
 header { 
-    background-image:url("imagens/Math\ Class\ Google\ Classroom\ Header\ Template.gif");
+    background-image:url("imagens/CAPA.gif");
     position:static;
 }
 
@@ -167,9 +167,9 @@ td {
 }
 
 #bandeira {
-    width: 40px;
+    width: 100px;
     text-align: center;
-    border: 0.1px solid black;    
+    border: 0.1px;    
     margin: 5px;
     vertical-align: middle;
 }
