@@ -1,32 +1,45 @@
+* {
+    margin: 0;
+    padding: 0 0 0 0;
+    box-sizing: 0;
+}
+nav {
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    float: right;
+    background-color: yellow;
+    padding: 0px 5px 0px 0px;
+}
 nav li {
     display: inline;
     font: 1.1em sans-serif;
     float: right;
-    margin: 15px 0 0 15px;
+    margin: 0 0 0 0;
     text-decoration: none;
+    padding: 5px 0 0 15px;    
 }
 
 nav a {
-    color: rgb(255, 255, 255);
+    color: blue;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 18px;
     text-decoration: none;
+    padding: 0 0 0 0;
 }
 
 nav a:hover {
     font-size: 18px;
-    color: black;
-}
-a {
-    color: white;
-    font-size: 1.05em;
-    text-decoration: underline;
+    color: red;
+    padding: 0 0 0 0;
 }
 
-a:hover {
-    font-size: 1.05em;
-    color: red;
+#capa {
+    width: 100%;
+    float: center;
+    margin: 20px 0px 0px 0px;
 }
 
 body {
@@ -36,15 +49,10 @@ body {
     text-align: center;
     font-family: sans-serif;    
     background-image:url(imagens/download_resized.png);
-    background-size: 100%;
+    background-size: cover;
     background-repeat:no-repeat;
     background-attachment: fixed;   
-    background-position: left top;
-}
-
-#capa {
-    width: 100%;
-    float: center;
+    background-position: center top;
 }
 
 header { 
