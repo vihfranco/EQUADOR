@@ -65,7 +65,7 @@ body {
     color: rgb(0, 0, 0);
     text-align: right;
     font-weight: bolder;
-    font-size: 1em;
+    font-size: 1.1em;
     position:static;
 }
 
@@ -162,7 +162,7 @@ li {
 }
 
 .site {
-    width: 100%;
+    width: 110%;
     align:center;
     justify-content: center;
     padding:0px;
@@ -335,7 +335,7 @@ h4 {
     position:static;
     padding: 0px;
     margin: 0px;
-    line-height: 1em;
+    line-height: 1.5em;
 }
 
 .vertical {
