@@ -85,6 +85,7 @@ h2 {
 
 div {
     margin: 0px;
+    padding: 0px;
 }
 
 h3 {
@@ -141,7 +142,7 @@ li {
 }
 
 .mapa li:hover h3 {
-    font-size: 22px;
+    font-size: 24px;
 }
 
 .mapa h3 {
