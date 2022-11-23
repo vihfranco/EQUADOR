@@ -142,11 +142,11 @@ li {
 }
 
 .mapa li:hover {
-    border: 0.1px solid blue;
+    border: 0px solid blue;
 }
 
 .mapa li:active {
-    border: 0.1px solid red;
+    border: 0px solid red;
 }
 
 .mapa li:hover h3 {
