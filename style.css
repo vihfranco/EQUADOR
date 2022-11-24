@@ -49,7 +49,7 @@ body {
     line-height: 1.5;
     text-align: center;
     font-family: sans-serif;    
-    background-image:url(imagens/9.png);
+    background-image:url(imagens/17.png);
     background-size: 100%;
     background-repeat:no-repeat;
     background-attachment: fixed;   
@@ -74,7 +74,7 @@ header {
 }
 
 .titulo {
-    color: yellow;
+    color: rgb(229, 229, 4);
     text-align: center;
     margin: 10px;
 }
@@ -97,7 +97,7 @@ div {
 }
 
 h3 {
-    color:  #ffffff;
+    color:  rgb(229, 229, 4);
     margin-left: 0px;
     margin-right: 0px;
     text-align: center;
@@ -118,10 +118,13 @@ p {
 
 li {
     color:  black;
+    margin-left: 10px;
     text-align: justify;
+    margin-right: 10px;
     font-size: 1.2em;
     margin-top: 5px;
     margin-bottom: 5px;
+    text-indent: 50px;
 }
 
 .mapa {
