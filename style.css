@@ -18,6 +18,7 @@ nav li {
     float: right;
     margin: 15px 0 0 15px;
     text-decoration: none;
+    vertical-align: middle;
 }
 
 nav a {
