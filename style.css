@@ -62,7 +62,7 @@ body {
 }
 
 .topo {
-    color: rgb(0, 0, 0);
+    color: blue;
     text-align: right;
     font-weight: bolder;
     font-size: 1em;
@@ -298,11 +298,11 @@ h4 {
 }
 
 .copyright {
-    color:  white;
+    color:  blue;
     text-align: center;
     font-size: 1em;
-    border: rgb(0, 0, 0) solid 0.5px;
-    background-color: red;
+    border: blue solid 0.5px;
+    background-color: rgb(190, 3, 3);
     position:static;
     padding: 0px;
     margin: 0px;
