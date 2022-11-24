@@ -49,7 +49,7 @@ body {
     line-height: 1.5;
     text-align: center;
     font-family: sans-serif;    
-    background-image:url(imagens/17.png);
+    background-image:url(imagens/download_resized.png);
     background-size: 100%;
     background-repeat:no-repeat;
     background-attachment: fixed;   
@@ -74,7 +74,7 @@ header {
 }
 
 .titulo {
-    color: rgb(229, 229, 4);
+    color: yellow;
     text-align: center;
     margin: 10px;
 }
@@ -97,7 +97,7 @@ div {
 }
 
 h3 {
-    color:  rgb(229, 229, 4);
+    color:  yellow;
     margin-left: 0px;
     margin-right: 0px;
     text-align: center;
@@ -117,7 +117,7 @@ p {
 }
 
 li {
-    color:  black;
+    color:  white;
     margin-left: 10px;
     text-align: justify;
     margin-right: 10px;
@@ -166,7 +166,7 @@ li {
 }
 
 .site {
-    width: 110%;
+    width: 100%;
     align:center;
     justify-content: center;
     padding:0px;
@@ -199,17 +199,6 @@ li {
     align-items: center;
 }
 
-#carouselExampleInterval{
-    size: 30%;
-    width: 50px;
-}
-
-.mascot {
-    height: 300px;
-    justify-content: center;
-    margin: 0px;
-}
-
 #bandeiras {
     width: 100px;
     text-align: center;
@@ -218,53 +207,13 @@ li {
     vertical-align: middle;
 }
 
-.copa {
-    height: 300px;
-    justify-content: center;
-    margin: 20px;
-}
-
 #mapa {
     width: 70%;
     justify-content: center;
 }
 
-#tabela {
-    width: 49%;
-    justify-content: center;
-    margin: 0;
-    align:center;
-}
-
-#estadio1 {
-    width: 40%;
-    justify-content: center;
-    vertical-align: top;
-    color: white;
-}
-
-#estadio2 {
-    width: 50%;
-    justify-content: center;
-    vertical-align: middle;
-}
-
-#Ranking{
-    color:  white;
-    width: 100%;
-    float: center;
-}
-
-.Ranking{
-    color:  white;
-}
-td, li {
-    color:  white;
-    vertical-align: middle;
-}
-
 .topicos {
-    color:  #ffffff;
+    color:  black;
     margin-left: 40px;
     margin-right: 20px;
     text-align: justify;
@@ -273,23 +222,11 @@ td, li {
     margin-bottom: 5px;
 }
 
-.mascote {
-    width: 20%;
-    justify-content: left;
-    margin-left: 20px;
-}
-
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: center; 
-}
-
 h4 {
-    color:  #ffffff;
+    color:  yellow;
     margin: 20px;
     text-align: justify;
-    font-size: 1.05em;
+    font-size: 1.2em;
 }
 
 #rodape {
@@ -298,7 +235,7 @@ h4 {
 }
 
 .copyright {
-    color:  blue;
+    color:  white;
     text-align: center;
     font-size: 1em;
     border: blue solid 0.5px;
@@ -307,50 +244,4 @@ h4 {
     padding: 0px;
     margin: 0px;
     line-height: 1.5em;
-}
-
-.vertical {
-    height: 250px;
-    width: 2px;
-}
-
-.relative {
-    padding: 20px;
-    border: 3px dotted yellow;
-    background-color: lightcyan;
-    position: relative;
-    color: royalblue;
-}
-
-.alterado {
-    top: 10px;
-    left: 10px;
-}
-
-.absolute {
-    height: 10px;
-    width: 140px;
-    border: 1px solid blue;
-    background-color: blueviolet;
-    position: absolute;
-    top: 20px;
-    right:20px;   
-}
-
-.fixed {
-    background-color: lightpink;
-    color:black;
-    text-align: center;
-    position: fixed;
-    top: 50px;
-    left: 50px;
-}
-
-.sticky {
-    background-color:peru;
-    color:brown;
-    text-align: center;
-    position: sticky;
-    top: 0px;
-    left: 150px;
 }
